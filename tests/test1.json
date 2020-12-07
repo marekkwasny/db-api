@@ -1,0 +1,9 @@
+{"open": {"password": "qwerty", "login": "app", "database": "student"}}
+{"ancestors": {"admin": 0, "emp": 9, "passwd": "qwerty"}}
+{"parent": {"admin": 0, "emp": 5, "passwd": "qwerty"}}
+{"ancestor": {"emp2": 6, "emp1": 8, "admin": 4, "passwd": "qwerty4"}}
+{"ancestor": {"emp2": 3, "emp1": 7, "admin": 0, "passwd": "qwerty"}}
+{"child": {"admin": 8, "emp": 2, "passwd": "qwerty8"}}
+{"descendants": {"admin": 2, "emp": 2, "passwd": "qwerty2"}}
+{"remove": {"admin": 1, "emp": 9, "passwd": "qwerty1"}}
+{"descendants": {"admin": 2, "emp": 2, "passwd": "qwerty2"}}
